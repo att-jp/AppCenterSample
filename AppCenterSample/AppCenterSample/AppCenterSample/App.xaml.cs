@@ -12,8 +12,8 @@ namespace AppCenterSample
     public partial class App : Application
     {
         const string uwpKey = "2b977979-ebbc-40f8-b6d2-cddb98312ac1";
-        const string iosKey = "233ad039-4e6d-4baf-8824-3845db2f2907";
-        const string androidKey = "a981827b-441f-4ab1-990e-e582d18d60bf";
+        const string iosKey = "8d58e43c-affb-4987-a606-49597511e30e";
+        const string androidKey = "6b5e7624-bd31-4cc2-b01d-cc17f1b8b242";
 
         public App()
         {
