@@ -14,6 +14,7 @@ namespace AppCenterSample
         const string uwpKey = "96243971-72d4-4360-ad44-44e4ebef955c";
         const string iosKey = "8d58e43c-affb-4987-a606-49597511e30e";
         const string androidKey = "6b5e7624-bd31-4cc2-b01d-cc17f1b8b242";
+        //AppCenter接続用のキー
 
         public App()
         {
